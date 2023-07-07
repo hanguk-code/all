@@ -1,0 +1,23 @@
+[
+  {
+    "name": "checkout-cart",
+    "path": "/checkout/cart",
+    "component": "/var/www/decor_ret_ru/data/www/decor-retro.ru/frontend/pages/checkout/cart.vue",
+    "chunkName": "pages/checkout/cart",
+    "_name": "_9941c1aa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/var/www/decor_ret_ru/data/www/decor-retro.ru/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4b316b34"
+  },
+  {
+    "name": "all",
+    "path": "/*",
+    "component": "/var/www/decor_ret_ru/data/www/decor-retro.ru/frontend/pages/_.vue",
+    "chunkName": "pages/_",
+    "_name": "_4ffda941"
+  }
+]

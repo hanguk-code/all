@@ -1,0 +1,80 @@
+{
+  "Archive": {
+    "description": "Auto imported from components/Archive.vue"
+  },
+  "LazyArchive": {
+    "description": "Auto imported from components/Archive.vue"
+  },
+  "Catalog": {
+    "description": "Auto imported from components/Catalog.vue"
+  },
+  "LazyCatalog": {
+    "description": "Auto imported from components/Catalog.vue"
+  },
+  "Category": {
+    "description": "Auto imported from components/Category.vue"
+  },
+  "LazyCategory": {
+    "description": "Auto imported from components/Category.vue"
+  },
+  "Contacts": {
+    "description": "Auto imported from components/Contacts.vue"
+  },
+  "LazyContacts": {
+    "description": "Auto imported from components/Contacts.vue"
+  },
+  "Delivery": {
+    "description": "Auto imported from components/Delivery.vue"
+  },
+  "LazyDelivery": {
+    "description": "Auto imported from components/Delivery.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "News": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "LazyNews": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "Product": {
+    "description": "Auto imported from components/Product.vue"
+  },
+  "LazyProduct": {
+    "description": "Auto imported from components/Product.vue"
+  },
+  "ProductAll": {
+    "description": "Auto imported from components/ProductAll.vue"
+  },
+  "LazyProductAll": {
+    "description": "Auto imported from components/ProductAll.vue"
+  },
+  "ProductNew": {
+    "description": "Auto imported from components/ProductNew.vue"
+  },
+  "LazyProductNew": {
+    "description": "Auto imported from components/ProductNew.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu/Menu.vue"
+  },
+  "LazyMenu": {
+    "description": "Auto imported from components/Menu/Menu.vue"
+  },
+  "MenuMobile": {
+    "description": "Auto imported from components/Menu/MenuMobile.vue"
+  },
+  "LazyMenuMobile": {
+    "description": "Auto imported from components/Menu/MenuMobile.vue"
+  }
+}
